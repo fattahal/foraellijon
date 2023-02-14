@@ -1,6 +1,6 @@
 body {
   background-color: #f2e3f0;
-  font-family: Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
 
@@ -20,7 +20,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: #fff;
+  background-color: rgb(225, 218, 209);
   padding: 20px;
   text-align: center;
   border-radius: 15px;
@@ -28,9 +28,9 @@ body {
 }
 
 #close-button {
-  background-color: rgb(210, 159, 115);
+  background-color: rgb(204, 132, 68);
   border: none;
-  color: rgb(81, 64, 6);
+  color: rgb(60, 47, 3);
   font-weight: bold;
   padding: 10px;
   border-radius: 10px;
@@ -38,8 +38,8 @@ body {
 }
 
 #close-button:hover {
-  background-color: rgb(224, 204, 186);
-  color: rgb(129, 104, 73);
+  background-color: rgb(219, 179, 144);
+  color: rgb(119, 81, 35);
 }
 
 .container {
